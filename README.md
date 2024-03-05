@@ -13,15 +13,17 @@ You must have Sitecore Powershell Extensions intalled. This release has been tes
 ## Usage
 
 - To export an page right-click the page in the Content Editor and choose: Scripts > Export Page as Package:
-  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-context-menu.png" width="200" align="left">
+  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-context-menu.png" width="500" align="left">
 <br clear="both"/>
 - The following options are then available to you:
-  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-options.png" width="500" align="left">
+  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-options.png" width="400" align="left">
 <br clear="both"/>
 
 - Choose your options and Click 'OK'
 - Download and save the package
-  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-download.png" width="300" align="left">
+  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-download.png" width="500" align="left">
+- You get an overview of the export if 
+  <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-exporter-summary.png" width="500" align="left">
 - Upload the page to where you want to use it 
 
 ## Releases
