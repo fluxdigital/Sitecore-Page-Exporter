@@ -1,5 +1,6 @@
 # Sitecore-Page-Exporter
-Sitecore Page Exporter Module for SPE - Export a page as a package and optionally the Sub-Pages, Datasources and Images.
+Sitecore Page Exporter Module for SPE. It allows you to export a page as a package and optionally the Sub-Pages, Datasources and Images.
+
 The idea of the module is to use it to download pages from Production or other higher environments down to lower environments for debugging and testing.
 
 ## Pre-requisistes
