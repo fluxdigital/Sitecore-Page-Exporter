@@ -11,17 +11,15 @@ You must have Sitecore Powershell Extensions intalled. This release has been tes
 - You should now have Sitecore Page Exporter installed under the SPE module
 
 ## Usage
-- To export an page right-click the page in the Contente Editor and choose:
 
-- The following options are then shown to you:
+To export an page right-click the page in the Contente Editor and choose:
+The following options are then shown to you:
   <p>
   <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-options.png" width="500" align="left">
   </p>
-- Choose your options and Click 'OK'
-
-- Download and save the package
-
-- Upload the page to where you want to use it 
+Choose your options and Click 'OK'
+Download and save the package
+Upload the page to where you want to use it 
 
 ## Releases
 [Download Release v1](https://github.com/fluxdigital/Sitecore-Page-Exporter/releases/tag/1.0.0)
