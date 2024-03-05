@@ -28,10 +28,12 @@ You must have Sitecore Powershell Extensions intalled. This release has been tes
   <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-download.png" width="500" align="left">
   <br clear="both"/>
 
-- You get an overview of the export if you click 'view script results'
+- You get an overview of the export if you click 'view script results':
 
   <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-exporter-summary.png" width="500" align="left">
   <br clear="both"/>
+
+  You will get an summary at the end of the number of items included also:
 
   <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-exporter-summary-end.png" width="500" align="left">
   <br clear="both"/>
