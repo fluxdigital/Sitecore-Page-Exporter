@@ -18,7 +18,7 @@ The following options are then shown to you:
   <div>
   <img src="https://github.com/fluxdigital/Sitecore-Page-Exporter/blob/main/page-export-options.png" width="500" align="left">
   </div>
-
+<br clear="both"/>
 
 Choose your options and Click 'OK'
 Download and save the package
