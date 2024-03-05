@@ -3,7 +3,7 @@ Sitecore Page Exporter Module for SPE. It allows you to export a page as a packa
 
 The idea of the module is to use it to download pages from Production or other higher environments down to lower environments for debugging and testing.
 
-## Pre-requisistes
+## Pre-requisites
 You must have Sitecore Powershell Extensions installed. This release has been tested with Sitecore 10.3 and SPE 6.4 but should work with older versions also.
 
 ## Install Notes
